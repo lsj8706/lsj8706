@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&%20%20&height=80&fontSize=0)
 # 이세진 *Lee Sejin*
 - 경희대학교 컴퓨터공학과
 
