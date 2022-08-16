@@ -1,5 +1,5 @@
 # 이세진 *Lee Sejin*
-- 경희대학교 컴퓨터공학과
+- 경희대학교 컴퓨터공학과 
 
 <!--
 🎨Blog : **[Notion](https://certain-skate-e81.notion.site/8c87b31a9bd34f519ed8f1ff7c2af26d)**
