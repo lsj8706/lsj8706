@@ -1,9 +1,6 @@
 # 이세진 *Lee Sejin*
-- 경희대학교 컴퓨터공학과 
-
-<!--
-🎨Blog : **[Notion](https://certain-skate-e81.notion.site/8c87b31a9bd34f519ed8f1ff7c2af26d)**
--->
+- iOS Developer 🍎
+- Department of Computer Engineering, Kyung Hee University
 
 ### 🌱 I’m currently learning ...
 <div style="display: flex; align-items: flex-start;">
@@ -13,6 +10,12 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </div>
 
+### 🍀 Experience
+- SOPT Makers 2nd iOS Chapter `(2023.02 ~ )`
+- Mint Tech iOS Developer `(2023.03 ~ 2023.06)`
+- SOPT Makers 1st iOS Chapter `(2022.09 ~ 2023.01)`
+- SOPT 31st iOS Part `(2022.09 ~ 2023.01)`
+- SOPT 30th iOS Part `(2022.02 ~ 2022.08)`
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj8706&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
