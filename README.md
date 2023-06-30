@@ -12,7 +12,7 @@
 
 ### 🍀 Experience
 - SOPT Makers 2nd iOS Chapter `(2023.02 ~ )`
-- Mint Tech iOS Developer `(2023.03 ~ 2023.06)`
+- Mint Tech iOS Developer Intern `(2023.03 ~ 2023.06)`
 - SOPT Makers 1st iOS Chapter `(2022.09 ~ 2023.01)`
 - SOPT 31st iOS Part `(2022.09 ~ 2023.01)`
 - SOPT 30th iOS Part `(2022.02 ~ 2022.08)`
