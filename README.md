@@ -2,15 +2,23 @@
 - iOS Developer 🍎
 - Department of Computer Engineering, Kyung Hee University
 
-### 🌱 I’m currently learning ...
+### Interest
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fastlane-inactive?style=flat&logo=Fastlane"/>
+  <img src="https://img.shields.io/badge/Git-f05030?style=flat&logo=Git&logoColor=white"/>
 </div>
 
-### 🍀 Experience
+### Projects
+- SOPT - SOPT인을 위한 공식 앱([GitHub](https://github.com/sopt-makers/SOPT-iOS), [AppStore](https://apps.apple.com/us/app/sopt/id6444594319))
+- Runnect - 코스를 그리고 공유하는 데일리 러닝 앱([GitHub](https://github.com/Runnect/Runnect-iOS), [AppStore](https://apps.apple.com/us/app/runnect/id1663884202))
+- ACT - 채팅 기반 회의 관리 앱([AppStore](https://apps.apple.com/gb/app/act-awave/id6447057371))
+- Happic - 하루 한 컷의 사진과 키워드 분석이 알려주는 나의 행복([GitHub](https://github.com/TeamHappic/happic-iOS))
+
+### Experience
 - SOPT Makers 2nd iOS Chapter `(2023.02 ~ )`
 - Mint Tech iOS Developer Intern `(2023.03 ~ 2023.06)`
 - SOPT Makers 1st iOS Chapter `(2022.09 ~ 2023.01)`
