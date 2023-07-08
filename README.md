@@ -25,8 +25,7 @@
 - SOPT 31st iOS Part `(2022.09 ~ 2023.01)`
 - SOPT 30th iOS Part `(2022.02 ~ 2022.08)`
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj8706&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 
