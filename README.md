@@ -19,6 +19,7 @@
 - Happic - 하루 한 컷의 사진과 키워드 분석이 알려주는 나의 행복([GitHub](https://github.com/TeamHappic/happic-iOS))
 
 ### Experience
+- SOPT Makers 3rd iOS Chapter `(2023.08 ~ now)`
 - SOPT Makers 2nd iOS Chapter `(2023.02 ~ 2023.08)`
 - Mint Tech iOS Developer Intern `(2023.03 ~ 2023.06)`
 - SOPT Makers 1st iOS Chapter `(2022.09 ~ 2023.01)`
