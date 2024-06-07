@@ -2,7 +2,7 @@
 - iOS Developer 🍎
 
 ### Experience
-- 당근 iOS Engineer `(2024.03 ~ now)`
+- 🥕 당근 iOS Engineer `(2024.03 ~ now)`
 - SOPT Makers iOS Chapter `(2022.09 ~ now)`
 - Mint Tech iOS Developer Intern `(2023.03 ~ 2023.06)`
 - SOPT 31st iOS Part `(2022.09 ~ 2023.01)`
